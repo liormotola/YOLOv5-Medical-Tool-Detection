@@ -60,7 +60,7 @@ It is run using the following command:
 ```
 python predict.py --image_path path/to/image.jpg
 ```
-Other optional parameters are `yolo_path` which specifies from which pretrained model to use to make predictions. The default value is `yolov5/runs/train/exp11/best.pt` For example:
+Other optional parameters are `yolo_path` which specifies which pretrained model to use to make predictions. The default value is `yolov5/runs/train/exp11/best.pt` For example:
 ```
 python predict.py --image_path path/to/image.jpg --yolo_path yolov5/runs/train/exp12/best.pt
 ```
