@@ -8,7 +8,7 @@ Use YOLOv5 to predict tool usages of physicians performing practice surgury oper
   <li> Used the PyTorch implementation of [YOLOv5](https://github.com/ultralytics/yolov5) to predict the tool usages of physicians when performing surgical activity. 
  </li>
   <li> Implementation of smoothing mechanism for video object classification.</li>
-  <li> Rporting evaluation metrics.</li>
+  <li> Reporting evaluation metrics.</li>
  </ul>
 
 ## How to run?
