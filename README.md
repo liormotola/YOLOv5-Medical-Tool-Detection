@@ -64,7 +64,7 @@ Other optional parameters are `yolo_path` which specifies which pretrained model
 ```
 python predict.py --image_path path/to/image.jpg --yolo_path yolov5/runs/train/exp12/best.pt
 ```
-After running this command a new labeled image will be created in the dir as `image_path` 
+After running this command a new labeled image will be created in the same dir as `image_path` 
 #### video.py
 The purpose of `video.py` is to perform object detection and tool usage on videos of educational surgical activity.<br>
 `video.py` can be run using the following command:
