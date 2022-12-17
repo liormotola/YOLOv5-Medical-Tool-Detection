@@ -1,0 +1,15 @@
+path: ../flipped_fixed_data/  
+train: train 
+val: valid
+test: test 
+
+names:
+  0: Right_Scissors
+  1: Left_Scissors
+  2: Right_Needle_driver
+  3: Left_Needle_driver
+  4: Right_Forceps
+  5: Left_Forceps
+  6: Right_Empty
+  7: Left_Empty
+
